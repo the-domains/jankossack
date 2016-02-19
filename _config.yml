@@ -1,0 +1,28 @@
+name: jankossack
+favicon: null
+layout_spectrum: 0.5203491691499949
+typography_spectrum: 0.2877856786362827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.762940214946866
+  lightness: 0.2728717664722353
+  saturation: 0.140863339882344
+  rhythmicContrast: 0.899070430546999
+purpose: []
