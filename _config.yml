@@ -1,28 +1,40 @@
-name: jankossack
 favicon: null
-layout_spectrum: 0.5203491691499949
-typography_spectrum: 0.2877856786362827
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: jankossack
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+  saturation: 0.140863339882344
   brandStrength: 0.762940214946866
   lightness: 0.2728717664722353
-  saturation: 0.140863339882344
+  brandColors:
+    - '#4265A9'
+    - '#E1D8C5'
+    - '#09080D'
+    - '#81AADA'
+    - '#968C80'
   rhythmicContrast: 0.899070430546999
-purpose: []
+typography_spectrum: 0.2877856786362827
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5203491691499949
+analytics:
+  twitter: null
+  google: null
+  facebook: null
