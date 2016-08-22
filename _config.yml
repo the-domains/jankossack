@@ -1,40 +1,40 @@
-favicon: null
-name: jankossack
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.140863339882344
+  saturation: 0.7204301
   brandStrength: 0.762940214946866
-  lightness: 0.2728717664722353
+  lightness: 0.7240143
   brandColors:
-    - '#4265A9'
-    - '#E1D8C5'
-    - '#09080D'
-    - '#81AADA'
-    - '#968C80'
-  rhythmicContrast: 0.899070430546999
-typography_spectrum: 0.2877856786362827
+    - '#FEFEFE'
+    - '#818181'
+    - '#F8B133'
+    - '#BAB9B8'
+    - '#5F5D5D'
+  rhythmicContrast: 0.8990704
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.5203491691499949
+favicon: null
+name: jankossack
 analytics:
   twitter: null
   google: null
   facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2877856786362827
+layout_spectrum: 0.4121864
